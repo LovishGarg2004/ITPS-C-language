@@ -1,6 +1,7 @@
 # include <stdio.h>
 
-int main() {
+int main() 
+{
     int row,column,count=0;
     
     printf("Enter number of rows in array = ");
